@@ -2,7 +2,7 @@ from flask import *
 import PyLineNotify
 
 # あなたのトークンを入力してください
-TOKEN = 'GkJ8LNmLBcQQRWjnFZnrp6vTPPPBmBmBdQN6tIY4Och'
+TOKEN = 'YOURTOCKN'
 
 app = Flask(__name__)
 
