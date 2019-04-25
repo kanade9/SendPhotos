@@ -1,0 +1,4 @@
+#editor related file
+.idea
+venv
+.DS_Store
